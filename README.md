@@ -1,5 +1,4 @@
-# Machine-Learning
-Development of ML models for the dataset
+# Development of ML models for the dataset
 
 
 1. Creation of a ML model based as price of diamond a target value by applying different regressions and comparing them. 
